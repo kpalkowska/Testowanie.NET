@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Components.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.pdb

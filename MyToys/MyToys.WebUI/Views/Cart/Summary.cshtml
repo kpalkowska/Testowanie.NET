@@ -1,0 +1,13 @@
+﻿@model MyToys.Domain.Entities.Cart
+
+<div class="navbar-right">
+    @Html.ActionLink("Zamów", "Index", "Cart",
+        new { returnUrl = Request.Url.PathAndQuery},
+        new { @class = "btn btn-default navbar-btn" })
+</div>
+<div class="navbar-text navbar-right">
+    <b>Twój koszyk:</b>
+    @Model.Items.Sum(x => x.Number) sztuk,
+    @Model.TotalValue().ToString("c")
+</div>
+

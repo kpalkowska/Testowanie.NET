@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\Fakes\Rejestracja.fakes : warning : Cannot generate stub for Rejestracja.Properties.Settings: type is sealed.
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\Fakes\Rejestracja.fakes : warning : Cannot generate shim for Rejestracja.Kolejka+<>c__DisplayClass10_0: type is not supported because of internal limitations.
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\Fakes\Rejestracja.fakes : warning : Cannot generate shim for Rejestracja.Kolejka+<>c__DisplayClass8_0: type is not supported because of internal limitations.
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\Fakes\Rejestracja.fakes : warning : Cannot generate shim for Rejestracja.Kolejka+<>c__DisplayClass9_0: type is not supported because of internal limitations.
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\Fakes\Rejestracja.fakes : warning : Cannot generate shim for Rejestracja.Properties.Settings: type is not visible to exported or assembly(Rejestracja.Fakes).

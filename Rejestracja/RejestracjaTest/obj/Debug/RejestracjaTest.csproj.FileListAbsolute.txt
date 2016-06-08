@@ -1,0 +1,104 @@
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.pdb
+E:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojFakesResolveAssemblyReference.cache
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\fakes.args
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Components.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.fakesconfig
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.pdb
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.xml
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.pdb
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ah
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ch
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.cs
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.csproj
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakes
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakesconfig
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csproj.FileListAbsolute.txt
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csprojResolveAssemblyReference.cache
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.pdb
+E:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojResolveAssemblyReference.cache
+E:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.dll
+E:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.pdb
+E:\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.dll
+E:\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.pdb
+E:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.fakesconfig
+E:\Rejestracja\RejestracjaTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.dll
+E:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.dll
+E:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.pdb
+E:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.xml
+G:\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.dll
+G:\Rejestracja\RejestracjaTest\bin\Debug\RejestracjaTest.pdb
+G:\Rejestracja\RejestracjaTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.dll
+G:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.dll
+G:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.pdb
+G:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.xml
+G:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojFakesResolveAssemblyReference.cache
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\fakes.args
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Components.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.QualityTools.Testing.Fakes.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.fakesconfig
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.pdb
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.xml
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.pdb
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ah
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ch
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.cs
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.csproj
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakes
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakesconfig
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csproj.FileListAbsolute.txt
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csprojResolveAssemblyReference.cache
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.pdb
+G:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojResolveAssemblyReference.cache
+G:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.dll
+G:\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.pdb
+G:\Rejestracja\RejestracjaTest\bin\Debug\Dane\dane.csv
+G:\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.fakesconfig
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Dane\dane.csv
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\RejestracjaTest.csprojFakesResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\fakes.args
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Components.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.fakesconfig
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.Fakes.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\b\Rejestracja.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ah
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.ch
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.csproj
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakes
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\f.fakesconfig
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csproj.FileListAbsolute.txt
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\f.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\obj\Debug\Fakes\r\o\Rejestracja.Fakes.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\RejestracjaTest\bin\Debug\Rejestracja.Fakes.fakesconfig

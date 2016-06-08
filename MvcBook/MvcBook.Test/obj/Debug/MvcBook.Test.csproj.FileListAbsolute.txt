@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Zaliczenie\MvcBook\MvcBook.Test\bin\Debug\MvcBook.Test.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Zaliczenie\MvcBook\MvcBook.Test\bin\Debug\MvcBook.Test.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Zaliczenie\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Zaliczenie\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Zaliczenie\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MvcBook\MvcBook.Test\bin\Debug\MvcBook.Test.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MvcBook\MvcBook.Test\bin\Debug\MvcBook.Test.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MvcBook\MvcBook.Test\obj\Debug\MvcBook.Test.pdb

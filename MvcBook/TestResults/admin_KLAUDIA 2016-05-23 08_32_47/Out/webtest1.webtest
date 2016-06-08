@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest1" Id="8195ab43-31db-4bd9-ba07-16817342323c" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest1.c525e893-a40c-4ab9-a6ac-b029067f0ebf.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="e4896682-49d3-4c3f-a3c0-9ded926eacaf" Version="1.1" Url="http://localhost:63352/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="84e03134-60e3-41c3-b663-c818c5e53715" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="e2beec1d-c51b-4b61-a034-bcb69f532a90" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="bookGenre" Value="Comedy" RecordedValue="Comedy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a95227a8-a9f2-4a14-af7e-79ade22e9dbc" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books?bookGenre=Comedy" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="bookGenre" Value="Thriller" RecordedValue="Thriller" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="be861e00-5a26-4ebd-aa81-e33b6e38c79b" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books?bookGenre=Thriller" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="42f28f26-5e03-464d-8349-e61f65055ea3" Version="1.1" Url="http://localhost:63352/" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="ea8fd142-df26-4ce0-96f2-30750a816e7d" Version="1.1" Url="http://localhost:63352/Books/Details/1" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="e649e010-9183-438b-8d11-c0faaa89ac4b" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books/Details/1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="aa80742c-6a4b-4256-9982-661731f1b316" Version="1.1" Url="http://localhost:63352/Authors" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="50a3bb6c-b8ec-4747-a701-afef0e0dd62b" Version="1.1" Url="http://localhost:63352/Authors/Details/2" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Authors" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="c3bbfd46-69a4-4d74-b108-01bdf70cc880" Version="1.1" Url="http://localhost:63352/Authors" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Authors/Details/2" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="9c609c97-556f-4762-9f30-f6fc04333209" Version="1.1" Url="http://localhost:63352/Authors/Index/Page10" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Authors" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="749c0ea8-a788-4f06-a05a-0425d4f3dc7e" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Authors/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="677baa97-dde5-4097-bcf4-c9628a1f3f20" Version="1.1" Url="http://localhost:63352/Books/Index/Page339" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1bd9a0b9-50f9-49e4-a8d2-bc8154c0896d" Version="1.1" Url="http://localhost:63352/Books/Index/Page331" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books/Index/Page336" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3a4db2ac-e03b-47d6-90b4-24309e0d8f5d" Version="1.1" Url="http://localhost:63352/Books/Index/Page326" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books/Index/Page331" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3f86b24d-5e4a-4772-8e0b-5301b9794500" Version="1.1" Url="http://localhost:63352/" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="822b5b83-343b-4148-bcca-468310971722" Version="1.1" Url="http://localhost:63352/Account/Login" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/" />
+      </Headers>
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+    </Request>
+    <Request Method="POST" Guid="87e599d1-76c2-4f86-9bbc-fd23d4009ad3" Version="1.1" Url="http://localhost:63352/Account/Login" ThinkTime="0" Timeout="480" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="http://localhost:63352/" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Account/Login" />
+      </Headers>
+      <FormPostHttpBody>
+        <FormPostParameter Name="__RequestVerificationToken" Value="{{$HIDDEN1.__RequestVerificationToken}}" RecordedValue="dNAayVxax_vyjeCln-lE5et-esxjfdRyoiK3qGpCxGc-UQ4vl3qiyx6LPsT9jwQcj0p7E2Ly8UfZ2HulouDOwbjImLDM5-gn0V_Db_CYUPc1" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="UserName" Value="admin" RecordedValue="admin" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Password" Value="lalala" RecordedValue="lalala" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="RememberMe" Value="{{$HIDDEN1.RememberMe}}" RecordedValue="false" CorrelationBinding="" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <Request Method="GET" Guid="0bb1cd2d-13dd-4c25-9d65-3dd8f84674c0" Version="1.1" Url="http://localhost:63352/Books" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="2a88bdf5-228f-427e-bc7f-93d9b240ecc1" Version="1.1" Url="http://localhost:63352/Books/Create" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam1.AuthorID" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="lue=&quot;" />
+            <RuleParameter Name="EndsWith" Value="&quot;&gt;Spa" />
+            <RuleParameter Name="Index" Value="5" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+    </Request>
+    <Request Method="POST" Guid="852216bd-5b1b-443c-a00f-34bf5fb3a420" Version="1.1" Url="http://localhost:63352/Books/Create" ThinkTime="0" Timeout="480" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="http://localhost:63352/Books" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books/Create" />
+      </Headers>
+      <FormPostHttpBody>
+        <FormPostParameter Name="__RequestVerificationToken" Value="{{$HIDDEN1.__RequestVerificationToken}}" RecordedValue="VH6ba1KtLaJ9jvXZOKnCyT6jHluBp--BS6HLfGStK0LIMDzyEm4vstL71i9NenpIriFIBCZ-11j3xYbKwZNJnpLALGECYDd-FKLRgncJ1FnXzZE_K-z13Pl_3efrfCx8xsGemAtSFOOVN4OJqhsWag2" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Title" Value="Test" RecordedValue="Test" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="ReleaseDate" Value="2016/5/5" RecordedValue="2016/5/5" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Genre" Value="Comedy" RecordedValue="Comedy" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="AuthorID" Value="1" RecordedValue="1" CorrelationBinding="{{FormPostParam1.AuthorID}}" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <Request Method="GET" Guid="245c1987-ea44-4bfd-ab0e-4b8f0b0d5592" Version="1.1" Url="http://localhost:63352/Books/ValidateDate" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="application/json, text/javascript, */*; q=0.01" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="http://localhost:63352/Books/Create" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ReleaseDate" Value="2016%2F5%2F5" RecordedValue="2016%2F5%2F5" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="00dc8554-c71c-47e0-892d-98cee7061440" Version="1.1" Url="http://localhost:63352/Books/Index/Page339" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://localhost:63352/Books" />
+      </Headers>
+      <ValidationRules>
+        <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.SharePointValidationRuleFindText2, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="SharePoint - Find Multiple Text Occurrences" Description="Similar to the Find Text validation rule but allows you to specify more than a single text string." Level="High" ExectuionOrder="BeforeDependents">
+          <RuleParameters>
+            <RuleParameter Name="ErrorTextPattern" Value="Test" />
+            <RuleParameter Name="ErrorPassIfTextFound" Value="True" />
+            <RuleParameter Name="ErrorUseRegEx" Value="False" />
+            <RuleParameter Name="StopTestTextPattern" Value="" />
+            <RuleParameter Name="StopTestPassIfTextFound" Value="False" />
+            <RuleParameter Name="StopTestUseRegEx" Value="False" />
+            <RuleParameter Name="StringSeparator" Value=";" />
+            <RuleParameter Name="Enabled" Value="True" />
+          </RuleParameters>
+        </ValidationRule>
+      </ValidationRules>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

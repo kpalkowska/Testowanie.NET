@@ -1,0 +1,58 @@
+﻿@model MvcBook.Models.Author
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Author</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Comedy Books")
+        </dt>
+
+        <dd>
+            @ViewBag.Count
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Thriller Books")
+        </dt>
+
+        <dd>
+            @ViewBag.Thriller
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Love story Books")
+        </dt>
+
+        <dd>
+            @ViewBag.Love
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }, new { @class = "btn btn-info" }) 
+    @Html.ActionLink("Back to List", "Index",null, new { @class = "btn btn-default" })
+</p>

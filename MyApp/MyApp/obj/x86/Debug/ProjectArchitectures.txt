@@ -1,0 +1,1 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\MyApp\MyApp\MyApp.csproj;x86

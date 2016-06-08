@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Windows\bin\Debug\ProjectMVVM.Windows.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Windows\bin\Debug\ProjectMVVM.Windows.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Windows\obj\Debug\ProjectMVVM.Windows.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Windows\obj\Debug\ProjectMVVM.Windows.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Windows\obj\Debug\ProjectMVVM.Windows.pdb

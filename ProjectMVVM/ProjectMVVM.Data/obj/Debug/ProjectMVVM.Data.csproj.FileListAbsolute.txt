@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\ProjectMVVM.Data.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\ProjectMVVM.Data.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\obj\Debug\ProjectMVVM.Data.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\obj\Debug\ProjectMVVM.Data.dll
+c:\users\admin\documents\visual studio 2015\Projects\ProjectMVVM\ProjectMVVM.Data\obj\Debug\ProjectMVVM.Data.pdb

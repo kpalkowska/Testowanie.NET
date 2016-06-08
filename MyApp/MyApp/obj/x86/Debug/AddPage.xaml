@@ -1,0 +1,121 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MyApp.AddPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <local:SkladnikConvert x:Key="SkladnikConvert" />
+    </Page.Resources>
+
+    <Grid Background="Transparent" Margin="15,40,10,15">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBox x:ConnectionId='2' x:Name="titleBox" FontSize="25" Width="250" HorizontalAlignment="Center"
+                 PlaceholderText="Podaj tytuł"/>
+        <TextBox x:ConnectionId='3' Grid.Row="2" x:Name="descBox" TextWrapping="Wrap" FontSize="15" Width="250"
+                 HorizontalAlignment="Center" PlaceholderText="Podaj opis" />
+        <Button x:ConnectionId='4' Grid.Row="3" x:Name="saveBtn" Content="Dodaj" FontSize="23" HorizontalAlignment="Right"
+                Background="#FF36264B" Margin="0,10,15,0" Foreground="White"                      />
+        <Button x:ConnectionId='5' Grid.Row="1" x:Name="skladBox" Content="Dodaj skladniki" Width="250" HorizontalAlignment="Center">
+            <Button.Flyout>
+                <Flyout>
+                    <StackPanel>
+                        <ListView x:ConnectionId='6' Width="250" x:Name="listaSkladnikow"                                  SelectionMode="Multiple">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Nazwa}"/>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        <MenuFlyoutSeparator />
+                        <RelativePanel>
+                            <TextBox x:ConnectionId='7' x:Name="nowySkladnik" RelativePanel.AlignHorizontalCenterWithPanel="True" Width="220"/>
+                            <Button x:ConnectionId='8' FontFamily="Segoe MDL2 Assets" Content="&#xE8FB;" RelativePanel.AlignRightWith="nowySkladnik"
+                                     Background="#FF36264B" Foreground="White"                      Height="30"/>
+                        </RelativePanel>
+                    </StackPanel>
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:ConnectionId='9' x:Name="Narrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="titleBox.Width"
+                                Value="250" />
+                        <Setter Target="descBox.Width"
+                                Value="250" />
+                        <Setter Target="skladBox.Width"
+                                Value="250" />
+                        <Setter Target="listaSkladnikow.Width"
+                                Value="250" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:ConnectionId='10' x:Name="Compact">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="360" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="titleBox.Width"
+                                Value="280" />
+                        <Setter Target="titleBox.FontSize"
+                                Value="28" />
+                        <Setter Target="descBox.Width"
+                                Value="280" />
+                        <Setter Target="descBox.FontSize"
+                                Value="20" />
+                        <Setter Target="skladBox.Width"
+                                Value="280" />
+                        <Setter Target="skladBox.FontSize"
+                                Value="18" />
+                        <Setter Target="saveBtn.Margin"
+                                Value="0,10,25,0" />
+                        <Setter Target="saveBtn.FontSize"
+                                Value="26" />
+                        <Setter Target="listaSkladnikow.Width"
+                                Value="280" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:ConnectionId='11' x:Name="Wide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="432"/>
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="titleBox.Width"
+                                Value="320" />
+                        <Setter Target="titleBox.FontSize"
+                                Value="32" />
+                        <Setter Target="descBox.Width"
+                                Value="320" />
+                        <Setter Target="descBox.FontSize"
+                                Value="23" />
+                        <Setter Target="skladBox.Width"
+                                Value="320" />
+                        <Setter Target="skladBox.FontSize"
+                                Value="20" />
+                        <Setter Target="saveBtn.Margin"
+                                Value="0,10,40,0" />
+                        <Setter Target="saveBtn.FontSize"
+                                Value="30" />
+                        <Setter Target="listaSkladnikow.Width"
+                                Value="320" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+    </Grid>
+</Page>
+

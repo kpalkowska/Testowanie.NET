@@ -1,0 +1,5 @@
+﻿@model PagedList.IPagedList<MvcBook.Models.Author>
+@using PagedList.Mvc;
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, currentFilter = ViewBag.CurrentFilter }))

@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\Rejestracja\bin\Debug\Rejestracja.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\Rejestracja\bin\Debug\Rejestracja.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\Rejestracja\obj\Debug\Rejestracja.dll
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\Rejestracja\obj\Debug\Rejestracja.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Rejestracja\Rejestracja\obj\Debug\Rejestracja.csprojResolveAssemblyReference.cache
+E:\Rejestracja\Rejestracja\bin\Debug\Rejestracja.dll
+E:\Rejestracja\Rejestracja\bin\Debug\Rejestracja.pdb
+E:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.csprojResolveAssemblyReference.cache
+E:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.dll
+E:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.pdb
+G:\Rejestracja\Rejestracja\bin\Debug\Rejestracja.dll
+G:\Rejestracja\Rejestracja\bin\Debug\Rejestracja.pdb
+G:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.dll
+G:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.pdb
+G:\Rejestracja\Rejestracja\bin\Debug\Dane\dane.csv
+G:\Rejestracja\Rejestracja\obj\Debug\Rejestracja.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Rejestracja\Rejestracja\bin\Debug\Dane\dane.csv

@@ -1,0 +1,50 @@
+﻿@model MyToys.WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Sklep z zabawkami: Twój koszyk";
+}
+
+<h2>Twój koszyk</h2>
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Ilość</th>
+            <th>Zabawka</th>
+            <th class="text-right">Cena</th>
+            <th class="text-right">Wartość</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart.Items)
+        {
+            <tr>
+                <td class="text-center">@item.Number</td>
+                <td class="text-left">@item.Toy.Name</td>
+                <td class="text-right">@item.Toy.Price.ToString("c")</td>
+                <td class="text-right">@((item.Number * item.Toy.Price).ToString("c"))</td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                        @Html.Hidden("ToyId", item.Toy.ToyID)
+                        @Html.HiddenFor(t => t.ReturnUrl)
+                        <input class="btn btn-sm btn-warning" type="submit" value="Usuń" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Razem:</td>
+            <td class="text-right">
+                @Model.Cart.TotalValue().ToString("c");
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Kontynuuj zakupy</a>
+    @Html.ActionLink("Złóż zamówienie", "Checkout", null, new { @class = "btn btn-primary"})
+</div>
+

@@ -1,0 +1,15 @@
+﻿@model MyToys.WebUI.Models.ToyListViewModel
+
+@{
+    ViewBag.Title = "Zabawki";
+}
+
+@foreach (var t in Model.Toys)
+{
+    @Html.Partial("ToySumary", t);
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+</div>
+

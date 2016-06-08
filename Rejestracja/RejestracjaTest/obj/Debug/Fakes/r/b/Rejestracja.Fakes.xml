@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rejestracja.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Rejestracja.Fakes.ShimKolejka">
+            <summary>Shim type of Rejestracja.Kolejka</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimKolejka.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimKolejka.#ctor(Rejestracja.Kolejka)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimKolejka.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.ListaLekarzyGet">
+            <summary>Sets the shim of Kolejka.get_ListaLekarzy()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.ListaLekarzySetListOfLekarz">
+            <summary>Sets the shim of Kolejka.set_ListaLekarzy(List`1&lt;Lekarz&gt; value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.ListaWizytGet">
+            <summary>Sets the shim of Kolejka.get_ListaWizyt()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.ListaWizytSetListOfWizyta">
+            <summary>Sets the shim of Kolejka.set_ListaWizyt(List`1&lt;Wizyta&gt; value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.dodajLekarzaLekarz">
+            <summary>Sets the shim of Kolejka.dodajLekarza(Lekarz lekarz)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.wizytyLekarzaLekarz">
+            <summary>Sets the shim of Kolejka.wizytyLekarza(Lekarz lekarz)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.AllInstances.zarejestrujPacjentaWizyta">
+            <summary>Sets the shim of Kolejka.zarejestrujPacjenta(Wizyta wizyta)</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimKolejka.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimKolejka.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.Constructor">
+            <summary>Sets the shim of Kolejka.Kolejka()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.ListaLekarzyGet">
+            <summary>Sets the shim of Kolejka.get_ListaLekarzy()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.ListaLekarzySetListOfLekarz">
+            <summary>Sets the shim of Kolejka.set_ListaLekarzy(List`1&lt;Lekarz&gt; value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.ListaWizytGet">
+            <summary>Sets the shim of Kolejka.get_ListaWizyt()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.ListaWizytSetListOfWizyta">
+            <summary>Sets the shim of Kolejka.set_ListaWizyt(List`1&lt;Wizyta&gt; value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.dodajLekarzaLekarz">
+            <summary>Sets the shim of Kolejka.dodajLekarza(Lekarz lekarz)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.wizytyLekarzaLekarz">
+            <summary>Sets the shim of Kolejka.wizytyLekarza(Lekarz lekarz)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimKolejka.zarejestrujPacjentaWizyta">
+            <summary>Sets the shim of Kolejka.zarejestrujPacjenta(Wizyta wizyta)</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimLekarz">
+            <summary>Shim type of Rejestracja.Lekarz</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimLekarz.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimLekarz.#ctor(Rejestracja.Lekarz)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimLekarz.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.EqualsLekarz">
+            <summary>Sets the shim of Lekarz.Equals(Lekarz inny)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.EqualsObject">
+            <summary>Sets the shim of Lekarz.Equals(Object obj)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.ImieGet">
+            <summary>Sets the shim of Lekarz.get_Imie()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.ImieSetString">
+            <summary>Sets the shim of Lekarz.set_Imie(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.NazwiskoGet">
+            <summary>Sets the shim of Lekarz.get_Nazwisko()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.NazwiskoSetString">
+            <summary>Sets the shim of Lekarz.set_Nazwisko(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.SpecjalizacjaGet">
+            <summary>Sets the shim of Lekarz.get_Specjalizacja()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.AllInstances.SpecjalizacjaSetString">
+            <summary>Sets the shim of Lekarz.set_Specjalizacja(String value)</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimLekarz.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimLekarz.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimLekarz.Bind(System.IEquatable{Rejestracja.Lekarz})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.ConstructorStringStringString">
+            <summary>Sets the shim of Lekarz.Lekarz(String imie, String nazwisko, String specjalizacja)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.EqualsLekarz">
+            <summary>Sets the shim of Lekarz.Equals(Lekarz inny)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.EqualsObject">
+            <summary>Sets the shim of Lekarz.Equals(Object obj)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.ImieGet">
+            <summary>Sets the shim of Lekarz.get_Imie()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.ImieSetString">
+            <summary>Sets the shim of Lekarz.set_Imie(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.NazwiskoGet">
+            <summary>Sets the shim of Lekarz.get_Nazwisko()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.NazwiskoSetString">
+            <summary>Sets the shim of Lekarz.set_Nazwisko(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.SpecjalizacjaGet">
+            <summary>Sets the shim of Lekarz.get_Specjalizacja()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimLekarz.SpecjalizacjaSetString">
+            <summary>Sets the shim of Lekarz.set_Specjalizacja(String value)</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimPacjent">
+            <summary>Shim type of Rejestracja.Pacjent</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimPacjent.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimPacjent.#ctor(Rejestracja.Pacjent)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimPacjent.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.AllInstances.ImieGet">
+            <summary>Sets the shim of Pacjent.get_Imie()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.AllInstances.ImieSetString">
+            <summary>Sets the shim of Pacjent.set_Imie(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.AllInstances.NazwiskoGet">
+            <summary>Sets the shim of Pacjent.get_Nazwisko()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.AllInstances.NazwiskoSetString">
+            <summary>Sets the shim of Pacjent.set_Nazwisko(String value)</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimPacjent.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimPacjent.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.ConstructorStringString">
+            <summary>Sets the shim of Pacjent.Pacjent(String imie, String nazwisko)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.ImieGet">
+            <summary>Sets the shim of Pacjent.get_Imie()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.ImieSetString">
+            <summary>Sets the shim of Pacjent.set_Imie(String value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.NazwiskoGet">
+            <summary>Sets the shim of Pacjent.get_Nazwisko()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimPacjent.NazwiskoSetString">
+            <summary>Sets the shim of Pacjent.set_Nazwisko(String value)</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimWizyta">
+            <summary>Shim type of Rejestracja.Wizyta</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimWizyta.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimWizyta.#ctor(Rejestracja.Wizyta)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.ShimWizyta.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.DataGet">
+            <summary>Sets the shim of Wizyta.get_Data()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.DataSetDateTime">
+            <summary>Sets the shim of Wizyta.set_Data(DateTime value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.LekarzGet">
+            <summary>Sets the shim of Wizyta.get_Lekarz()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.LekarzSetLekarz">
+            <summary>Sets the shim of Wizyta.set_Lekarz(Lekarz value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.PacjentGet">
+            <summary>Sets the shim of Wizyta.get_Pacjent()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.AllInstances.PacjentSetPacjent">
+            <summary>Sets the shim of Wizyta.set_Pacjent(Pacjent value)</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimWizyta.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.ShimWizyta.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.ConstructorPacjentLekarzDateTime">
+            <summary>Sets the shim of Wizyta.Wizyta(Pacjent Pacjent, Lekarz Lekarz, DateTime Data)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.DataGet">
+            <summary>Sets the shim of Wizyta.get_Data()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.DataSetDateTime">
+            <summary>Sets the shim of Wizyta.set_Data(DateTime value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.LekarzGet">
+            <summary>Sets the shim of Wizyta.get_Lekarz()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.LekarzSetLekarz">
+            <summary>Sets the shim of Wizyta.set_Lekarz(Lekarz value)</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.PacjentGet">
+            <summary>Sets the shim of Wizyta.get_Pacjent()</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.ShimWizyta.PacjentSetPacjent">
+            <summary>Sets the shim of Wizyta.set_Pacjent(Pacjent value)</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.StubKolejka">
+            <summary>Stub type of Rejestracja.Kolejka</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubKolejka.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubKolejka.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubKolejka.InitializeStub">
+            <summary>Initializes a new instance of type StubKolejka</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubKolejka.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubKolejka.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.StubLekarz">
+            <summary>Stub type of Rejestracja.Lekarz</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubLekarz.#ctor(System.String,System.String,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubLekarz.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubLekarz.Equals(System.Object)">
+            <summary>Sets the stub of Lekarz.Equals(Object obj)</summary>
+        </member>
+        <member name="F:Rejestracja.Fakes.StubLekarz.EqualsObject">
+            <summary>Sets the stub of Lekarz.Equals(Object obj)</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubLekarz.InitializeStub">
+            <summary>Initializes a new instance of type StubLekarz</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubLekarz.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubLekarz.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.StubPacjent">
+            <summary>Stub type of Rejestracja.Pacjent</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubPacjent.#ctor(System.String,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubPacjent.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubPacjent.InitializeStub">
+            <summary>Initializes a new instance of type StubPacjent</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubPacjent.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubPacjent.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Rejestracja.Fakes.StubWizyta">
+            <summary>Stub type of Rejestracja.Wizyta</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubWizyta.#ctor(Rejestracja.Pacjent,Rejestracja.Lekarz,System.DateTime)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubWizyta.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Rejestracja.Fakes.StubWizyta.InitializeStub">
+            <summary>Initializes a new instance of type StubWizyta</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubWizyta.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Rejestracja.Fakes.StubWizyta.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

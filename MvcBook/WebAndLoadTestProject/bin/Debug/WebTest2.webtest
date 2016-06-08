@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest2" Id="3f48b147-d514-41e0-9b7c-19953a915b76" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest2.a063f930-8ecb-421f-aecb-096888b5f7e5.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="41b4f1eb-5266-43ac-9b24-5621b501d664" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/" ThinkTime="32" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="af9ba82d-f928-4802-8523-6830e7f5610d" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="3" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="5c440c18-084e-4607-a6a1-dac658db34d8" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page4" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ec16d8ab-d6a7-4600-bfc7-be5e826db3ad" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" ThinkTime="8" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page4" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="f822abcb-1eec-4a5c-80d3-864ce4b6fa43" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="a62fb40d-9967-440d-9233-cfb9cefc5743" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" ThinkTime="6" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="4f1ba851-a36c-4eae-badc-bd9777903c25" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" ThinkTime="8" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="63c0b780-649a-455c-b65f-8898b399057b" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="9b40f6e9-ff77-4e47-a05a-99a3e5fe8238" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="3" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="e8b5b863-54a3-4ae2-9bc6-576dc731a65e" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ea9e3365-31ca-4692-90d1-1f6b561b5679" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="fdec06fc-6be4-4ea4-add3-b77ce18da190" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1217bd49-c2d5-438a-b235-dd063838a99e" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Details/1" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="994e5184-0dc6-46b9-b21e-21d899cee4af" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="4" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Details/1" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="d1379df2-f9a4-45c7-bb44-ce2f9590b4a3" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Authors" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="f863d40f-4e55-4bae-8e56-830a152e7ef2" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Authors/Details/2" ThinkTime="8" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Authors" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="794fafc5-f971-4046-8758-7714eaf1c912" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Authors" ThinkTime="9" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Authors/Details/2" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="9baf6f54-2f32-4c37-a1ae-2da2d8847b91" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Authors/Index/Page10" ThinkTime="6" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Authors" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3361717b-1ae8-468f-9f2e-c9140e65d56a" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="5" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Authors/Index/Page10" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="8972b5d5-b0cd-488f-8a9f-ae6f2a340d08" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page334" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="7eb96ac5-177b-4f8e-b320-ba7d180a6c8c" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page330" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page334" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="4b575cdb-9985-4a3e-96a7-0f8b1f345924" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page327" ThinkTime="5" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page330" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="5729c027-b9df-4efb-932f-cd9fe75897f7" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page324" ThinkTime="12" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page327" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="b0ff03f3-a93e-4e2a-816b-48e52ec1b49e" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Index/Page324" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="35f1f881-a6f2-431d-bf77-1368c45d0672" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Account/Login" ThinkTime="6" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/" />
+      </Headers>
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+    </Request>
+    <Request Method="POST" Guid="9de1a8a1-36a7-4c5e-ad15-40382185dbcc" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Account/Login" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="http://klaudiabooks.azurewebsites.net/" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Account/Login" />
+      </Headers>
+      <FormPostHttpBody>
+        <FormPostParameter Name="__RequestVerificationToken" Value="{{$HIDDEN1.__RequestVerificationToken}}" RecordedValue="7wYfhyWLcKrzscOGV3Brg84ftPrLcNY-Q3raOXImxQ8eaAnyjywd8p3hkD4ZslVMjyJeamhkuqjs96COJ-SPTbOS4BAnyNPn0dhsaRmtyOA1" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="UserName" Value="admin" RecordedValue="admin" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Password" Value="lalala" RecordedValue="lalala" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="RememberMe" Value="{{$HIDDEN1.RememberMe}}" RecordedValue="false" CorrelationBinding="" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <Request Method="GET" Guid="d40585a0-9c0a-4f03-9e21-b4c210c85aa6" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books" ThinkTime="7" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3a5677db-a6a6-4a2c-b22d-60a6f33c5acd" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Create" ThinkTime="18" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam1.AuthorID" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="lue=&quot;" />
+            <RuleParameter Name="EndsWith" Value="&quot;&gt;Spa" />
+            <RuleParameter Name="Index" Value="5" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+    </Request>
+    <Request Method="GET" Guid="a70160bd-c839-44db-b92d-4e32a1c7c020" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/ValidateDate" ThinkTime="6" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="application/json, text/javascript, */*; q=0.01" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Create" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ReleaseDate" Value="5%2F5%2F2016" RecordedValue="5%2F5%2F2016" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="8aa33217-58b0-492a-94e2-3d10dc2930e7" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Create" ThinkTime="15" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="http://klaudiabooks.azurewebsites.net/Books" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books/Create" />
+      </Headers>
+      <FormPostHttpBody>
+        <FormPostParameter Name="__RequestVerificationToken" Value="{{$HIDDEN1.__RequestVerificationToken}}" RecordedValue="2Swjq4tf894OVfCDsalpk_DelPPVRBaKc3QFarAXMYc-TPr28dkz1l7RDGm3q7AvKck9INbdUWQrd1hCk9hkaW9mukQA3Tr6lrLYzSmM1khTdkIOQyfgG84ZlkiSxum0eL8f8Fg604EfLbZNO39_EA2" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Title" Value="Test" RecordedValue="Test" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="ReleaseDate" Value="5/5/2016" RecordedValue="5/5/2016" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Genre" Value="Comedy" RecordedValue="Comedy" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="AuthorID" Value="1" RecordedValue="1" CorrelationBinding="{{FormPostParam1.AuthorID}}" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <Request Method="GET" Guid="e05a23cb-4d68-40bc-858e-e24d145b912c" Version="1.1" Url="http://klaudiabooks.azurewebsites.net/Books/Index/Page334" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="http://klaudiabooks.azurewebsites.net/Books" />
+      </Headers>
+      <ValidationRules>
+        <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleFindText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Find Text" Description="Verifies the existence of the specified text in the response." Level="High" ExectuionOrder="BeforeDependents">
+          <RuleParameters>
+            <RuleParameter Name="FindText" Value="Test" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="PassIfTextFound" Value="True" />
+          </RuleParameters>
+        </ValidationRule>
+      </ValidationRules>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

@@ -1,0 +1,8 @@
+﻿<Application x:Class="ProjectMVVM.DesktopClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ProjectMVVM.DesktopClient">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

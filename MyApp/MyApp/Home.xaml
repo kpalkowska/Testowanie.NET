@@ -1,0 +1,77 @@
+﻿<Page
+    x:Class="MyApp.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Transparent">
+        <StackPanel x:Name="contentPanel" Margin="15,70,10,15">
+            <TextBlock x:Name="text" Text="Jakie składniki posiadasz?" HorizontalAlignment="Left" FontSize="25"
+                       Foreground="White"/>
+            <TextBlock x:Name="text2" Text="Wpisz nazwy z polskimi znakami" HorizontalAlignment="Left" Foreground="White"/>
+            <StackPanel x:Name="inputPanel" Orientation="Horizontal" Margin="0,20,0,20">
+                <TextBox x:Name="ingredientInput" Width="230" HorizontalAlignment="Left"
+                         PlaceholderText="Podaj składnik"/>
+                <Button x:Name="searchBtn" FontFamily="Segoe MDL2 Assets" FontSize="30" Content="&#xE1A3;"
+                        HorizontalAlignment="Left" Background="#FF36264B" Foreground="White"
+                        Click="searchBtn_Click"/>
+            </StackPanel>
+            <TextBlock Name="output" Foreground="White"/>
+        </StackPanel>
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:Name="Narrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ingredientInput.Width"
+                                Value="230" />
+                        <Setter Target="text.FontSize"
+                                Value="25" />
+                        <Setter Target="searchBtn.FontSize"
+                                Value="30" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Compact">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="360" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ingredientInput.Width"
+                                Value="260" />
+                        <Setter Target="ingredientInput.FontSize"
+                                Value="20" />
+                        <Setter Target="text.FontSize"
+                                Value="27" />
+                        <Setter Target="text2.FontSize"
+                                Value="20" />
+                        <Setter Target="searchBtn.FontSize"
+                                Value="35" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="Wide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="432"/>
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="ingredientInput.Width"
+                                Value="310" />
+                        <Setter Target="ingredientInput.FontSize"
+                                Value="25" />
+                        <Setter Target="text.FontSize"
+                                Value="32" />
+                        <Setter Target="text2.FontSize"
+                                Value="22" />
+                        <Setter Target="searchBtn.FontSize"
+                                Value="40" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</Page>

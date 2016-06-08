@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\Selenium.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\Selenium.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.xml
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\obj\Debug\Selenium.dll
+c:\users\admin\documents\visual studio 2015\Projects\Selenium\Selenium\obj\Debug\Selenium.pdb
